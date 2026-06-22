@@ -1,0 +1,5 @@
+{
+  "buildCommand": "cd streets-ahead && npm run build",
+  "outputDirectory": "streets-ahead/.next",
+  "installCommand": "cd streets-ahead && npm install"
+}
